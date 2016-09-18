@@ -11,7 +11,7 @@
  ----------------------------------
 |           ORM (kind of)           |
  ----------------------------------
-|        Persistence (Database)     |
+|        Persistence (Database)     |t
  ----------------------------------
 ```
 
@@ -30,7 +30,7 @@ That was the first purpose of this scripting language.
 - **2013** WebComponents or Components. *React*, *Angular 2*, *Vue.js*, *Polymer* and *Cycle.js*
   We have some abstraction for the old-HTML code that we were use do to. The components also provides a easy API. to represent the properties or the state that the single piece of UI have to render.
 
-- **Now** Offline website comes in, we trait the Web as a Native Application on your phone. Using *Push Notification*, *Camera API*, *etc.*
+- **Now** Offline website comes in, we treat the Web as a Native Application on your phone. Using *Push Notification*, *Camera API*, *etc.*
 So we create the concept of **Progressive Web Applications**.
 
   Also caring about the Application State, that always was there, in the jQuery days we still add some class or toggle another one, depends on some interaction.
