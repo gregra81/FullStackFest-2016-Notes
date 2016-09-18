@@ -3,12 +3,12 @@
 
 ### Let's begin what we know now and what we have now:
 
-- MVC is death, blablalba.
+- MVC is dead.
 - Doble **Data Binding** and "dirty checker" is awful.
 - Observable.observe() was part of some browsers.
 - The problem is **"Changes in data"**
 - Mutability doesn't solve the browser issues.
-- Single source of Thurth.
+- Single source of truth.
 
 --
 
