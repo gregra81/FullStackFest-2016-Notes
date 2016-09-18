@@ -3,7 +3,7 @@
 ### What is WebAssembly?
 - New text and binary format spec
 - Designed for fast load and execute
-- Is a alternative to JavaScript
+- Is an alternative to JavaScript
 - Compilation target for languages like C, C++, Rust, etc.
 - Safe (Can't crash)
 - Portable (Running in every browsers)
