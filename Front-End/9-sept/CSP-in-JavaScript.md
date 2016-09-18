@@ -1,11 +1,11 @@
 # CSP in JavaScript by Vincenzo Chianese
 
 ### CSP: Communicating Sequential Processes
-> All the concepts are abailable on Front or Back
+> All the concepts are available on Front or Back
 
 ##### Problem: Sharing the memory
   - Non determinism
-  - Rece conditions
+  - Race conditions
   - Deadlocks
 
   So...
